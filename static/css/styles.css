@@ -1,0 +1,25 @@
+.titleContainer {
+    height: 100vh;
+    width: 100vw;
+    background: #D6D6D6
+}
+#title {
+    font-size: 50pt;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    position: relative;
+    top: 35%;
+    transform: translateY(50%);
+}
+#title2 {
+    color: #9D69A3;
+    font-size: 20pt;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    transform: translateY(50%);
+}
+span {
+    font-size: 100pt;
+}
